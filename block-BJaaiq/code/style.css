@@ -1,0 +1,14 @@
+body{
+    font-family: 'Italianno', cursive;
+}
+li {
+    font-size: 4rem;
+}
+cite{
+    font-size: 2rem;
+    margin-left: 80px;
+}
+div{
+    margin: 2rem 0;
+    padding: 2rem;
+}
