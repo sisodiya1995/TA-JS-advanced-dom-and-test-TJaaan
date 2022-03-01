@@ -1,0 +1,38 @@
+.box{
+    margin: 25% 40%;
+    border: 2px solid goldenrod;
+    width: 400px;
+}
+ input {
+     margin: .7rem 0;
+     width: 88%;
+     
+ }
+ form {
+     text-align: center;
+ }
+ button{
+     width: 90%;
+     margin-bottom: 2rem;
+     margin-top: .4rem;
+ }
+ h1{
+     padding: 15px;
+     background-color: black;
+     color: white;
+     text-align: center;
+ }
+ .userdata{
+     display: flex;
+     flex-wrap: wrap;
+
+ }
+ .user{
+    width: 300px;
+    
+    background-color: bisque;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+
+ }
