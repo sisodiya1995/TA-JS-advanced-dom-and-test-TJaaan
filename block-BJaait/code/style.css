@@ -1,0 +1,70 @@
+.box{
+    margin: 5% 37%;
+    margin-bottom: 2%;
+    border: 2px solid white;
+    width: 400px;
+    display: flex;
+    background-color: blue;
+    padding: 0 .7rem;
+}
+ input {
+     margin: .7rem 0;
+     width: 98%;
+    height: 40px;
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 0 .7rem;
+    outline: none;
+  
+ }
+ form {
+     text-align: center;
+ }
+ button{
+     
+     color: white;
+     background-color: blue;
+     border: none;
+ }
+ input::placeholder{
+     color: white;
+     font-size: 20px;
+ }
+ h1{
+     padding: 15px;
+     background-color: black;
+     color: white;
+     text-align: center;
+ }
+ .userdata{
+     display: flex;
+    flex-direction: column;
+    margin: 0% 36%;
+
+ }
+ .user{
+    width: 400px;
+    background-color: bisque;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+ }
+ body{
+     background-color: blue;
+ }
+ p{
+    margin: 1px 0px;
+     font-weight: 900;
+     font-size: 30px;
+ }
+ small {
+     display: none;
+ }
+ .user:hover small{
+     display: flex;
+ }
